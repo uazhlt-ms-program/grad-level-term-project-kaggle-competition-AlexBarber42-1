@@ -3,8 +3,8 @@
 My classifier and related files are containerized with Docker. To run this on your machine, clone this repo. 
 From within this repo, run the following terminal commands:
 
-`docker build -t assignment .`
-`docker run -p 9999:9999 assignment`
+`docker build -t assignment .`  
+`docker run -p 9999:9999 assignment`  
 
 Then, open a browser and navigate to localhost:9999
 
